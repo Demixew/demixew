@@ -3,6 +3,7 @@ Sup!
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWxvbmwwMnl5NDc0cG9meWFianF5YXRjYW5lbWo3ajJzZ2NtZHRtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hqzi6uZ3e3Q3P0JARC/giphy.gif)
 ## About me
 - I'm backed developer based in Astrakhan(Russia). 📍
+- Right now, pursuing a degree in CS at ASTU.
 - Have a great interest in backend developing and CS. 
 - Some kind of nerd i guess. 🤓
 - Coding since 2021. That's the time, when i was mentally born.
@@ -21,5 +22,3 @@ Looking for becoming a surfer one day.. 🏄
 ### Socials
 [![Socials](https://skillicons.dev/icons?i=gmail)](mailto:akishkin.ivcs@gmail.com)
 
-## More
-* You can see more, my web portfolio at *UNDEVELOPED RIGHT NOW* 💻
